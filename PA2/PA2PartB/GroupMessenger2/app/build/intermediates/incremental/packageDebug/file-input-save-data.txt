@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Mon Mar 06 17:59:37 EST 2017
+2.base=C\:\\Users\\dhruv\\AndroidStudioProjects\\GroupMessenger2\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\dhruv\\AndroidStudioProjects\\GroupMessenger2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\dhruv\\AndroidStudioProjects\\GroupMessenger2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+6.file=C\:\\Users\\dhruv\\AndroidStudioProjects\\GroupMessenger2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldpi-v4\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\dhruv\\AndroidStudioProjects\\GroupMessenger2\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\dhruv\\AndroidStudioProjects\\GroupMessenger2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\activity_group_messenger.xml
+7.set=ANDROID_RESOURCE
+count=9
+0.file=C\:\\Users\\dhruv\\AndroidStudioProjects\\GroupMessenger2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\ic_launcher.png
+5.base=C\:\\Users\\dhruv\\AndroidStudioProjects\\GroupMessenger2\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\dhruv\\AndroidStudioProjects\\GroupMessenger2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\dhruv\\AndroidStudioProjects\\GroupMessenger2\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\dhruv\\AndroidStudioProjects\\GroupMessenger2\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\dhruv\\AndroidStudioProjects\\GroupMessenger2\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\dhruv\\AndroidStudioProjects\\GroupMessenger2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_group_messenger.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\dhruv\\AndroidStudioProjects\\GroupMessenger2\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\dhruv\\AndroidStudioProjects\\GroupMessenger2\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\dhruv\\AndroidStudioProjects\\GroupMessenger2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+3.set=DEX
+1.base=C\:\\Users\\dhruv\\AndroidStudioProjects\\GroupMessenger2\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\dhruv\\AndroidStudioProjects\\GroupMessenger2\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
